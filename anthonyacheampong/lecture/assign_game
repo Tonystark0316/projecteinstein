@@ -1,0 +1,19 @@
+import random
+
+def main():
+    numbers{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+    user_input = ("Enter a number : ")
+    human = (user_input, state)
+    computer = make
+    
+#accepting user input
+def take_user_input(user_input, numbers):
+    user_input = ("choose a number : ")
+    return user_input
+
+#capture the guess
+def computer_choice(numbers):
+    computer_choice = guess(numbers)
+    return computer_choice
+
+main()

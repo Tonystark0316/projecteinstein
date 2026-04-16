@@ -37,7 +37,7 @@ def make_computer_choice(state):
     computer_choice = random.choice(state)
     return computer_choice
 
-#main()
+main()
 
 
 import random
